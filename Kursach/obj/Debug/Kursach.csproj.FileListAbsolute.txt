@@ -1,0 +1,10 @@
+C:\Users\nikol\source\repos\Kursach\bin\Debug\Kursach.exe.config
+C:\Users\nikol\source\repos\Kursach\bin\Debug\Kursach.exe
+C:\Users\nikol\source\repos\Kursach\bin\Debug\Kursach.pdb
+C:\Users\nikol\source\repos\Kursach\obj\Debug\Kursach.csprojAssemblyReference.cache
+C:\Users\nikol\source\repos\Kursach\obj\Debug\Kursach.exe
+C:\Users\nikol\source\repos\Kursach\obj\Debug\Kursach.pdb
+E:\Рабочий Стол\Новая папка\Kursach\obj\Debug\Kursach.csprojAssemblyReference.cache
+E:\Рабочий Стол\Новая папка\Kursach\obj\Debug\Kursach.exe
+E:\Рабочий Стол\Новая папка\Kursach\obj\Debug\Kursach.pdb
+E:\Рабочий Стол\Новая папка\Kursach\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
